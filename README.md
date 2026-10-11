@@ -4,6 +4,9 @@ This is the place to report bugs, suggest features, and ask questions about DiT'
 
 This repository holds **tickets only**. There's no source code here. To download the mods, go to their Modrinth pages below.
 
+> [!NOTE]
+> **About AI use:** This repository, including its templates and documentation, was set up and is maintained with the help of AI tools. Replies to issues come from me, the developer. I may use an AI assistant to draft or post a reply, but every reply's content (the answers, decisions and fixes) comes from me, not the AI.
+
 ## Mods
 
 | Mod | Description | Loader | Minecraft | Side |
