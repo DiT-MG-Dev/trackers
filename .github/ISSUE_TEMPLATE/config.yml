@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: LavaConduit on Modrinth
+    url: https://modrinth.com/mod/lavaconduit
+    about: Download LavaConduit and read its description and changelog.
+  - name: MuddyWaters on Modrinth
+    url: https://modrinth.com/mod/muddywaters
+    about: Download MuddyWaters and read its description and changelog.

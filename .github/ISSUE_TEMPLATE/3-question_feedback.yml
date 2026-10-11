@@ -1,0 +1,43 @@
+name: Question / feedback
+description: Ask a question, get help with configuration or compatibility, or share feedback.
+title: "[Question] "
+labels: ["question", "needs-triage"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Mod
+      description: Which mod is this about?
+      options:
+        - LavaConduit
+        - MuddyWaters
+    validations:
+      required: true
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of question or feedback is this?
+      options:
+        - Question about how the mod works
+        - Configuration help
+        - Compatibility with another mod
+        - General feedback
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true
+
+  - type: input
+    id: versions
+    attributes:
+      label: Mod and Minecraft version
+      description: If relevant.
+      placeholder: e.g. MuddyWaters 1.0.2 on Minecraft 26.3
+    validations:
+      required: false
