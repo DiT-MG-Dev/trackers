@@ -11,7 +11,7 @@ This repository holds **tickets only**. There's no source code here. To download
 
 | Mod | Description | Loader | Minecraft | Side |
 | --- | --- | --- | --- | --- |
-| [LavaConduit](https://modrinth.com/mod/lavaconduit) | *Under review on Modrinth — coming soon.* | Fabric | — | — |
+| [LavaConduit](https://modrinth.com/mod/lavaconduit) | *Under review on Modrinth — coming soon.* | Fabric | 26.3 | Re-adds the Nether Reactor as a Lava Conduit, granting Fire Resist, Haste and a new effect Lava Dweller. |
 | [MuddyWaters](https://modrinth.com/mod/muddywaters) | Over time, turns dirt next to or under water into mud or biome-specific "shoreline" blocks, without changing world generation settings. | Fabric | 26.2, 26.3 | Server |
 
 ## Reporting an issue
